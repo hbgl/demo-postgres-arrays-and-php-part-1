@@ -1,4 +1,4 @@
-See the accompanying blog post for more inforation about this repository: https://mehbgl.wordpress.com/2020/10/17/postgres-arrays-and-php-part-1/
+See the accompanying blog post for more information about this repository: https://mehbgl.wordpress.com/2020/10/17/postgres-arrays-and-php-part-1/
 
 Required to run the samples:
 
